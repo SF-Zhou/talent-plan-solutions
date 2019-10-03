@@ -3,3 +3,4 @@ cache: cargo
 
 script:
   - ./rust/project-1/test.sh
+  - ./rust/building-blocks-2/test.sh
